@@ -21,7 +21,7 @@ Requirements
 Installation
 ------------
 
-You have the choice between 3 methods:
+You have the choice between 2 methods:
 
 1. Download the zip file and decompress everything under the directory `plugins/EstimatedDates`
 2. Clone this repository into the folder `plugins/EstimatedDates`
